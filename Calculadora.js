@@ -22,5 +22,4 @@ if (vitorias < 10) {
 console.log(`O Herói tem de saldo de ${ranking} e está no nível de ${nivel}`);
 
 }
-// Exemplo de uso da função
-calcular(40, 20); // Altere os valores de vitórias e derrotas para testar
+calcular(40, 20); 
